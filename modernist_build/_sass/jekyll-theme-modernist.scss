@@ -1,5 +1,9 @@
 @import "rouge-base16-dark";
-
+.blog_sample {
+   border-bottom: 2px solid;
+   border-top: 2px solid;
+   display:inline;
+}
 html {
   background:#6C7989;
   background: #6C7989 linear_gradient(#6C7989, #434B55) fixed;
