@@ -12,7 +12,7 @@ I curently have the following machines running:
   - 2 120 GB SSD
 
 - DL 380 Generation 7
-  - 2 xeon x5675 processors with 2 cores each at 3.06 Ghz
+  - 2 xeon x5675 processors with 6 cores each at 3.06 Ghz
   - 36 GB ram
   - Proxmox 5.1
   - 2 500 GB HDD
@@ -23,3 +23,9 @@ I curently have the following machines running:
   - 1050ti
   - 645ti
   - 2 1tb HDD
+
+- Dell optiplex 9010
+  - i7-3770 at 3.4 Ghz
+  - 8 GB ram
+  - 1 tb HDD
+  - Trying to sell 
