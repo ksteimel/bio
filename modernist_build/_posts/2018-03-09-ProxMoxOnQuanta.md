@@ -1,5 +1,4 @@
 ---
----
 title: Installing Proxmox on a Quanta Windmill v1 
 layout: default
 category: hpc
@@ -14,3 +13,5 @@ The install went perfectly fine in my case but there were issues upon reboot. Tw
 By switching to UEFI, I was able to install proxmox like normal. 
 
 I'm leaving this up here in case someone else has similar troubles with a quanta windmill.
+
+In addition, I had to install using a cd-drive from a spare computer connected to SATA2 as the proxmox install continually failed to recognize the cdrom when booting from a usb. 
