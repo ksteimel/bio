@@ -12,6 +12,8 @@ My current CV can be found on [this page](curriculum-vitae.pdf)
 
 [Coffee Roasting](coffee.html)
 
+[Homelabbing](machines.html)
+
 ## Blog posts:
 {% for post in site.posts %}
    ___

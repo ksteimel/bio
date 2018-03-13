@@ -1,7 +1,9 @@
 ---
+
 title: Computational Linguistics Projects
 layout: default
-category: cl
+category_name: cl
+
 ---
 
 I am a 3rd year PhD student in Computational Linguistics at Indiana University. I am interested in computational linguistics for under resourced languages, morphologically rich languages, and African languages. 
