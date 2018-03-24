@@ -1,7 +1,7 @@
 ---
 title: Installing Proxmox on a Quanta Windmill v1 
 layout: default
-category: hpc
+category: infrastructure 
 ---
 
 Every time I tried to install proxmox on a quanta opencompute windmill v1 with legacy bios, it failed. 
