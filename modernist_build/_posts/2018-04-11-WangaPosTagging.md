@@ -1,8 +1,8 @@
 ---
 
 title: Part-of-Speech tagging in Wanga
-layout:default
-category:cl
+layout: default
+category: cl
 
 ---
 
