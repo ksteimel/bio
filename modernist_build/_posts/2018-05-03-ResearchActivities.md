@@ -2,6 +2,7 @@
 
 title: Research Activities Spring 2018
 layout: default
+category: cl
 
 ---
 
